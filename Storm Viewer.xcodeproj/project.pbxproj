@@ -7,14 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5452ABEC1E4A23CE00AF755C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5452ABEB1E4A23CE00AF755C /* DetailViewController.swift */; };
 		5475CC2D1E49956100F469FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5475CC2C1E49956100F469FC /* AppDelegate.swift */; };
 		5475CC2F1E49956100F469FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5475CC2E1E49956100F469FC /* ViewController.swift */; };
 		5475CC321E49956100F469FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC301E49956100F469FC /* Main.storyboard */; };
 		5475CC341E49956100F469FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC331E49956100F469FC /* Assets.xcassets */; };
 		5475CC371E49956100F469FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC351E49956100F469FC /* LaunchScreen.storyboard */; };
+		5475CC4B1E4997D200F469FC /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC411E4997D200F469FC /* nssl0033.jpg */; };
+		5475CC4C1E4997D200F469FC /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC421E4997D200F469FC /* nssl0034.jpg */; };
+		5475CC4D1E4997D200F469FC /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC431E4997D200F469FC /* nssl0041.jpg */; };
+		5475CC4E1E4997D200F469FC /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC441E4997D200F469FC /* nssl0042.jpg */; };
+		5475CC4F1E4997D200F469FC /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC451E4997D200F469FC /* nssl0043.jpg */; };
+		5475CC501E4997D200F469FC /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC461E4997D200F469FC /* nssl0045.jpg */; };
+		5475CC511E4997D200F469FC /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC471E4997D200F469FC /* nssl0046.jpg */; };
+		5475CC521E4997D200F469FC /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC481E4997D200F469FC /* nssl0049.jpg */; };
+		5475CC531E4997D200F469FC /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC491E4997D200F469FC /* nssl0051.jpg */; };
+		5475CC541E4997D200F469FC /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5475CC4A1E4997D200F469FC /* nssl0091.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5452ABEB1E4A23CE00AF755C /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		5475CC291E49956100F469FC /* Storm Viewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Storm Viewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5475CC2C1E49956100F469FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5475CC2E1E49956100F469FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +34,16 @@
 		5475CC331E49956100F469FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5475CC361E49956100F469FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5475CC381E49956100F469FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5475CC411E4997D200F469FC /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		5475CC421E4997D200F469FC /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		5475CC431E4997D200F469FC /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		5475CC441E4997D200F469FC /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		5475CC451E4997D200F469FC /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		5475CC461E4997D200F469FC /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		5475CC471E4997D200F469FC /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		5475CC481E4997D200F469FC /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		5475CC491E4997D200F469FC /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		5475CC4A1E4997D200F469FC /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +76,33 @@
 		5475CC2B1E49956100F469FC /* Storm Viewer */ = {
 			isa = PBXGroup;
 			children = (
+				5452ABEB1E4A23CE00AF755C /* DetailViewController.swift */,
 				5475CC2C1E49956100F469FC /* AppDelegate.swift */,
 				5475CC2E1E49956100F469FC /* ViewController.swift */,
 				5475CC301E49956100F469FC /* Main.storyboard */,
 				5475CC331E49956100F469FC /* Assets.xcassets */,
 				5475CC351E49956100F469FC /* LaunchScreen.storyboard */,
 				5475CC381E49956100F469FC /* Info.plist */,
+				5475CC401E4997D200F469FC /* Content */,
 			);
 			path = "Storm Viewer";
+			sourceTree = "<group>";
+		};
+		5475CC401E4997D200F469FC /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				5475CC411E4997D200F469FC /* nssl0033.jpg */,
+				5475CC421E4997D200F469FC /* nssl0034.jpg */,
+				5475CC431E4997D200F469FC /* nssl0041.jpg */,
+				5475CC441E4997D200F469FC /* nssl0042.jpg */,
+				5475CC451E4997D200F469FC /* nssl0043.jpg */,
+				5475CC461E4997D200F469FC /* nssl0045.jpg */,
+				5475CC471E4997D200F469FC /* nssl0046.jpg */,
+				5475CC481E4997D200F469FC /* nssl0049.jpg */,
+				5475CC491E4997D200F469FC /* nssl0051.jpg */,
+				5475CC4A1E4997D200F469FC /* nssl0091.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +165,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5475CC4C1E4997D200F469FC /* nssl0034.jpg in Resources */,
+				5475CC531E4997D200F469FC /* nssl0051.jpg in Resources */,
 				5475CC371E49956100F469FC /* LaunchScreen.storyboard in Resources */,
+				5475CC4F1E4997D200F469FC /* nssl0043.jpg in Resources */,
+				5475CC4B1E4997D200F469FC /* nssl0033.jpg in Resources */,
+				5475CC501E4997D200F469FC /* nssl0045.jpg in Resources */,
+				5475CC511E4997D200F469FC /* nssl0046.jpg in Resources */,
+				5475CC521E4997D200F469FC /* nssl0049.jpg in Resources */,
+				5475CC4E1E4997D200F469FC /* nssl0042.jpg in Resources */,
 				5475CC341E49956100F469FC /* Assets.xcassets in Resources */,
+				5475CC541E4997D200F469FC /* nssl0091.jpg in Resources */,
+				5475CC4D1E4997D200F469FC /* nssl0041.jpg in Resources */,
 				5475CC321E49956100F469FC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,6 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5452ABEC1E4A23CE00AF755C /* DetailViewController.swift in Sources */,
 				5475CC2F1E49956100F469FC /* ViewController.swift in Sources */,
 				5475CC2D1E49956100F469FC /* AppDelegate.swift in Sources */,
 			);
@@ -302,6 +354,7 @@
 				5475CC3D1E49956100F469FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
